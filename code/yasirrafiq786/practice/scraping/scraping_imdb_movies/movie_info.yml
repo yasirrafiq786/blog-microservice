@@ -1,0 +1,112 @@
+---
+- :name: The Shawshank Redemption 
+  :year: 1994
+  :storyline: Two imprisoned men bond over a number of years, finding solace and eventual
+    redemption through acts of common decency.
+  :director: Frank Darabont
+  :cast:
+  - Tim Robbins
+  - Morgan Freeman
+  - Bob Gunton
+  - William Sadler
+  - Clancy Brown
+- :name: The Godfather 
+  :year: 1972
+  :storyline: The aging patriarch of an organized crime dynasty transfers control
+    of his clandestine empire to his reluctant son.
+  :director: Francis Ford Coppola
+  :cast:
+  - Marlon Brando
+  - Al Pacino
+  - James Caan
+  - Richard S. Castellano
+  - Robert Duvall
+- :name: 'The Godfather: Part II '
+  :year: 1974
+  :storyline: The early life and career of Vito Corleone in 1920s New York City is
+    portrayed, while his son, Michael, expands and tightens his grip on the family
+    crime syndicate.
+  :director: Francis Ford Coppola
+  :cast:
+  - Al Pacino
+  - Robert Duvall
+  - Diane Keaton
+  - Robert De Niro
+  - John Cazale
+- :name: The Dark Knight 
+  :year: 2008
+  :storyline: When the menace known as the Joker wreaks havoc and chaos on the people
+    of Gotham, Batman must accept one of the greatest psychological and physical tests
+    of his ability to fight injustice.
+  :director: Christopher Nolan
+  :cast:
+  - Christian Bale
+  - Heath Ledger
+  - Aaron Eckhart
+  - Michael Caine
+  - Maggie Gyllenhaal
+- :name: 12 Angry Men 
+  :year: 1957
+  :storyline: A jury holdout attempts to prevent a miscarriage of justice by forcing
+    his colleagues to reconsider the evidence.
+  :director: Sidney Lumet
+  :cast:
+  - Martin Balsam
+  - John Fiedler
+  - Lee J. Cobb
+  - E.G. Marshall
+  - Jack Klugman
+- :name: Schindler's List 
+  :year: 1993
+  :storyline: In German-occupied Poland during World War II, industrialist
+  :director: Steven Spielberg
+  :cast:
+  - Liam Neeson
+  - Ben Kingsley
+  - Ralph Fiennes
+  - Caroline Goodall
+  - Jonathan Sagall
+- :name: 'The Lord of the Rings: The Return of the King '
+  :year: 2003
+  :storyline: Gandalf and Aragorn lead the World of Men against Sauron's army to draw
+    his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+  :director: Peter Jackson
+  :cast:
+  - Noel Appleby
+  - Ali Astin
+  - Sean Astin
+  - David Aston
+  - John Bach
+- :name: Pulp Fiction 
+  :year: 1994
+  :storyline: The lives of two mob hitmen, a boxer, a gangster and his wife, and a
+    pair of diner bandits intertwine in four tales of violence and redemption.
+  :director: Quentin Tarantino
+  :cast:
+  - Tim Roth
+  - Amanda Plummer
+  - Laura Lovelace
+  - John Travolta
+  - Samuel L. Jackson
+- :name: The Good, the Bad and the Ugly 
+  :year: 1966
+  :storyline: A bounty hunting scam joins two men in an uneasy alliance against a
+    third in a race to find a fortune in gold buried in a remote cemetery.
+  :director: Sergio Leone
+  :cast:
+  - Eli Wallach
+  - Clint Eastwood
+  - Lee Van Cleef
+  - Aldo Giuffrè
+  - Luigi Pistilli
+- :name: 'The Lord of the Rings: The Fellowship of the Ring '
+  :year: 2001
+  :storyline: A meek Hobbit from the Shire and eight companions set out on a journey
+    to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+  :director: Peter Jackson
+  :cast:
+  - Alan Howard
+  - Noel Appleby
+  - Sean Astin
+  - Sala Baker
+  - Sean Bean
