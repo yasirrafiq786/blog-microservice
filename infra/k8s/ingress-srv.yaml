@@ -20,3 +20,9 @@ spec:
                     servicePort: 4002
                 - path: /post/?(.*)/comments
                   backend:
+                    serviceName: comments-srv
+                    servicePort: 4001
+                - path: /?(.*)
+                  backend:
+                    serviceName: client-srv
+                    servicePort: 3000
