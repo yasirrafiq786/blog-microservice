@@ -18,7 +18,7 @@ spec:
                   backend:
                     serviceName: query-srv
                     servicePort: 4002
-                - path: /post/?(.*)/comments
+                - path: /posts/?(.*)/comments
                   backend:
                     serviceName: comments-srv
                     servicePort: 4001
